@@ -1,0 +1,11 @@
+Copyright© 2021 NCnetic
+All rights reserved.
+
+LICENSE AGREEMENT:
+You should carefully read the following terms and conditions before using this software. Your use of this software indicates your acceptance of this license agreement and warranty.
+
+NOTICE:
+NCnetic can not be distributed without the express permission of the NCnetic software author. The author reserves the right to make improvements to the NCnetic software at any time and without notice.
+
+DISCLAIMER OF WARRANTY:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
